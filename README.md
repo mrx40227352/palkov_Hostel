@@ -58,6 +58,6 @@
 
 1.  Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/ВАШ_НИК/Hostel.git
+    git clone https://github.com/mrx40227352/Hostel.git
 
-    <img width="398" height="899" alt="image" src="https://github.com/user-attachments/assets/f478ef0b-fffc-4de4-9cc4-61c166ad0949" />
+    
